@@ -1,2 +1,3 @@
 # Sample
-working on git and github
+working on GIT and GIThub
+commands pull push commit
